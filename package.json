@@ -1,0 +1,19 @@
+{
+  "name": "it313_lapura_princessmary_typescriptfoundation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node main.ts",
+    "check": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
